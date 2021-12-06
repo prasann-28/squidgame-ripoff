@@ -1,1 +1,1 @@
-# https://prasann-28.github.io/squidgame-ripoff/
+https://prasann-28.github.io/squidgame-ripoff/
